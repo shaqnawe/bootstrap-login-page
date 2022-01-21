@@ -1,0 +1,81 @@
+.image {
+    margin: 70px 50px;
+}
+.border {
+    margin: 0 360px;
+    border-radius: 2px;
+    padding: 5px;
+}
+.username {
+    font-size: 15px;
+    margin-right: 115px;
+}
+.form-group {
+    text-align: center;
+    justify-content: flex;
+}
+.password {
+    color: black;
+    margin-left: 51px;
+    font-size: 15px
+}
+.forgotpw {
+    color: #5581C5;
+    margin-left: 105px;
+}
+.help {
+    color: #5581C5;
+    margin: 10px 45px;
+}
+.btn {
+    padding: 3px 149px;
+    color: black;
+    background-color: #F7CA00;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    font-size: 12px;
+    margin: 0 15px;
+}
+.text-center {
+    margin-top: 18px;
+    color: grey;
+}
+h6 {
+  display: flex;
+  flex-direction: row;
+}
+h6:before, h6:after{
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid lightgray;
+  margin: 10px 370px;
+}
+h6:before {
+  margin-right: 10px
+}
+h6:after {
+  margin-left: 10px
+}
+.accountbtn {
+    padding: 2px 90px;
+    background-color: #E0E3E9;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.line {
+    width: 100%;
+}
+.footer {
+    color: #5581C5;
+    font-size: 12px;
+    margin: 0;
+}
+#policy {
+    padding: 25px;
+}
+.copyright {
+    font-size: 12px;
+    padding: 0 60px;
+}
